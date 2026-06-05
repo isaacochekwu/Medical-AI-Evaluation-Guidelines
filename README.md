@@ -54,7 +54,7 @@ In parallel with clinical work, I have developed expertise in:
 
 ## How to Use This Framework
 
-1. Start with [`evaluation-rubric.md`](./evaluation-rubric.md) to understand the scoring dimensions
+1. Start with [`evaluation-rubric.md`](./Evaluation rubric.md) to understand the scoring dimensions
 2. Review [`hallucination-taxonomy.md`](./hallucination-taxonomy.md) to learn how I categorize errors
 3. See the [`examples/`](./examples/) folder for real annotated cases
 4. Refer to [`annotation-best-practices.md`](./guidelines/annotation-best-practices.md) for workflow tips
