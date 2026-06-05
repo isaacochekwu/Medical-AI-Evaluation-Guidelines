@@ -54,10 +54,10 @@ In parallel with clinical work, I have developed expertise in:
 
 ## How to Use This Framework
 
-1. Start with [`evaluation-rubric.md`](./evaluation-rubric.md) to understand the scoring dimensions
-2. Review [`hallucination-taxonomy.md`](./hallucination-taxonomy.md) to learn how I categorize errors
-3. See the [`examples/`](./examples/) folder for real annotated cases
-4. Refer to [`annotation-best-practices.md`](./guidelines/annotation-best-practices.md) for workflow tips
+1. Start with [`evaluation-rubric.md`](https://github.com/isaacochekwu/Medical-AI-Evaluation-Guidelines/blob/main/Evaluation%20rubric.md)) to understand the scoring dimensions
+2. Review [`hallucination-taxonomy.md`](https://github.com/isaacochekwu/Medical-AI-Evaluation-Guidelines/blob/main/Hallucination%20taxonomy%20%C2%B7%20MD) to learn how I categorize errors
+3. See the [`examples/`](https://github.com/isaacochekwu/Medical-AI-Evaluation-Guidelines/blob/main/Good%20output%20example) folder for real annotated cases
+4. Refer to [`annotation-best-practices.md`](https://github.com/isaacochekwu/Medical-AI-Evaluation-Guidelines/blob/main/Annotation%20best%20practices) for workflow tips
 
 ---
 
